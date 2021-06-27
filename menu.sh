@@ -25,7 +25,7 @@ IPVPS=$(curl -s ipinfo.io/ip )
 	echo -e "   \e[032;1mIsp Name:\e[0m $ISP"
 	echo -e "   \e[032;1mCity:\e[0m $CITY"
 	echo -e "   \e[032;1mTime:\e[0m $WKT"
-	echo -e "   \e[033;1mIPVPS:\e[0m $IPVPS"
+	echo -e "   \e[032;1mIPVPS:\e[0m $IPVPS"
 echo -e  "   -------------------------MENU OPTIONS------------------------" | lolcat
 echo -e   "   1\e[1;33m)\e[m SSH & OpenVPN Menu"
 echo -e   "   2\e[1;33m)\e[m Panel Wireguard "
