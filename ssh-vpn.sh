@@ -14,7 +14,7 @@ state=Indonesia
 locality=Indonesia
 organization=raisa-store.my.id
 organizationalunit=raisa-store.my.id
-commonname=RaisaVPN&JavSEXY
+commonname=RaisaVPNxJavSEXY
 email=admin@raisa-store.my.id
 
 # simple password minimal
