@@ -29,7 +29,7 @@ IPVPS=$(curl -s ipinfo.io/ip )
 echo -e  "   -----------------------MENU OPTIONS----------------------" | lolcat
 echo -e   "   1\e[1;33m)\e[m Panel SSH & OpenVPN Menu"
 echo -e   "   2\e[1;33m)\e[m Panel SSR & SS Account"
-echo -e   "   3\e[1;33m)\e[m Panel V2Ray"
+echo -e   "   3\e[1;33m)\e[m Panel XRAY Account"
 echo -e   "  \e[1;32m------------------------------------------------------------\e[m" | lolcat
 echo -e   "                             SYSTEM MENU\e[m" | lolcat 
 echo -e   "  \e[1;32m------------------------------------------------------------\e[m" | lolcat
