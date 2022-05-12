@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /usr/bin
-wget -q "https://raw.githubusercontent.com/ZzZzZzZXCoo/raisa/main/vpnjav"
+wget -q "https://raw.githubusercontent.com/ZzZzZzZXCoo/error/main/bannerku"
 wget -q -O menu "https://raw.githubusercontent.com/ZzZzZzZXCoo/raisa/main/menu.sh"
 wget -q -O ssh "https://raw.githubusercontent.com/ZzZzZzZXCoo/raisa/main/ssh.sh"
 wget -q -O ssssr "https://raw.githubusercontent.com/ZzZzZzZXCoo/raisa/main/ssssr.sh"
